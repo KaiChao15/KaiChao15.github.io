@@ -1,0 +1,5 @@
+@import "jekyll-theme-midnight";
+
+h1:{
+  color: green;
+}
