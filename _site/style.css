@@ -602,8 +602,11 @@ li{
   color: red;
 }
 
-#about1{
-  color: orange;
+div.a{
+  color: red;
+  font-size : 25px;
+  font-style: italic;
+  font-weight: bold;
 }
 
 body {
