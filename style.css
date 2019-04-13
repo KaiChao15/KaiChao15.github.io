@@ -445,12 +445,12 @@ Full-Width Styles
   border-bottom-right-radius: 2px; }
 
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(to top, #373737, #212121); }
+  background: #808080;
+  background: -moz-linear-gradient(top, #373737, #808080);
+  background: -webkit-linear-gradient(top, #373737, #808080);
+  background: -ms-linear-gradient(top, #373737, #808080);
+  background: -o-linear-gradient(top, #373737, #808080);
+  background: linear-gradient(to top, #373737, #808080); }
 
 #header_wrap .inner {
   padding: 50px 10px 30px 10px; }
@@ -591,6 +591,9 @@ Small Device Styles
     max-width: 320px;
     font-size: 11px; } }
 
+/*******************************************************************************
+My customize style
+*******************************************************************************/
 #about{
   color: green;
 }
