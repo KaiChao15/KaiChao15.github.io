@@ -2351,6 +2351,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 8px;
 			display: block;
+
 		}
 
 		.image.left, .image.right {
@@ -2984,13 +2985,11 @@ input, select, textarea {
 			display: inline-block;
 			margin-left: 4em;
 			padding: 0.65em;
-			border-radius: 100%;
 			border: solid 1px;
 		}
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
 				width: 16em;
 			}
 
