@@ -2352,6 +2352,9 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 	}
+		.image h5{
+			text-align:center;
+		}
 
 		.image img {
 			border-radius: 8px;
