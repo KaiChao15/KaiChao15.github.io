@@ -17,15 +17,13 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 ## Reference
 <p>
-Templates:
-HTML5 UP
-<br>
-Icons:
-Font Awesome (fontawesome.io)
-Flat icon(https://www.flaticon.com/)
- <br>
-Other:
-jQuery (jquery.com)
-Scrollex (github.com/ajlkn/jquery.scrollex)
+Templates:<br>
+HTML5 UP<br>
+Icons:<br>
+Font Awesome (fontawesome.io)<br>
+Flat icon(https://www.flaticon.com/)<br>
+Other:<br>
+jQuery (jquery.com)<br>
+Scrollex (github.com/ajlkn/jquery.scrollex)<br>
 Responsive Tools (github.com/ajlkn/responsive-tools)
 </p>
