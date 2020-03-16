@@ -3586,7 +3586,7 @@ input, select, textarea {
 			padding: 0;
 		}
 
-			#sidebar nav > ul > .logo {
+			#sidebar .inner > .logo {
 				-moz-transition: opacity 1.25s ease, -moz-transform 0.5s ease;
 				-webkit-transition: opacity 1.25s ease, -webkit-transform 0.5s ease;
 				-ms-transition: opacity 1.25s ease, -ms-transform 0.5s ease;
@@ -3599,7 +3599,7 @@ input, select, textarea {
 				margin: 0 0 1.5em 0;
 			}
 
-			#sidebar nav > ul > .logo > img{
+			#sidebar .inner > .logo > img{
 				display: block;
 				margin: 0 auto;
 				max-width: 100%;
