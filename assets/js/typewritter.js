@@ -1,12 +1,19 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Hello, my name is Kai.", 
-                   "I am currently 4th year Computer Science student in University of Victoria.", 
-                   "I love coding and making interesting applications.", 
-                   "I like to do back-end programming, clould management and AI developing."];
-const typingDelay = 100;
-const erasingDelay = 100;
+const textArray = ["Hello, there. Welcome to my site.", 
+                   "I am currently a CS student in University of Victoria.", 
+                   "I love to code and solve interesting problem.", 
+                   "I like back-end programming, clould management and AI/ML development.",
+                   "Also...",
+                   "I can speak many languages!",
+                   "English, Mandarin, Taiwanese, Japanese... very little French",
+                   "In my free time,",
+                   "I love cars and driving",
+                   "Cooking and Eating",
+                   "Hiking in the Natural."];
+const typingDelay = 40;
+const erasingDelay = 40;
 const newTextDelay = 2000; // Delay between current and next text
 let textArrayIndex = 0;
 let charIndex = 0;
